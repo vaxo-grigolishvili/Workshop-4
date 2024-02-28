@@ -1,0 +1,200 @@
+body{
+    margin: 0;                  
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color:#D9D9D9;
+    display: flex;
+}
+.logo{
+    width: 178px;
+    height: 100px;
+    margin: 50px 0  0  130px;
+}
+.page{
+    display: flex;
+    width: max-content;
+    height: 30px;
+    margin: 73px 0  0  270px;
+
+}
+@font-face {
+    font-family: alt;
+    src: url(../fonts/alk_life.otf);
+}
+.text{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px; 
+    color: #717276;
+    margin: 30px 18px 30px 18px ; 
+    font-family: alt;
+
+}
+.text_color{
+    color: red;
+}
+.bottom{
+    width: max-content;
+    height: 287px;
+    margin: 87px 0  0 100px;
+}
+.bottom_Second{
+    width: 86%;
+    height: 856px;
+    margin: 200px 0 0 100px ;
+}
+.bottom_header{
+    display: flex;
+    width: 533px;
+    height: 100px; 
+}
+.bottom_header_photo{
+    width: 100px;
+    height: 100px;  
+}
+
+@font-face {
+    font-family: dejavu;
+    src: url(../fonts/bpg_dejavu_sans.ttf);
+}
+
+.bottom_header_text{
+    margin-left: 30px;
+    font-family: dejavu;
+    color: #717276;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+}
+.group1{
+    width: max-content;
+    height: 686px;
+    margin-top: 30px;
+    
+}
+.group1_photo{
+    width: 380px;
+    height: 512px;
+   
+  
+}
+.group1_space{
+    margin: 0 10px 0 10px;
+}
+.group1_text1{
+    color: #717276;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 39px;
+    font-family: dejavu;
+}
+.group1_text2{
+  font-family: alt;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+}
+.group1_text3{
+  font-family: dejavu;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+}
+.group1_text_nav{
+    display: flex;
+}
+.photo_text2{
+    margin-left: 137px;
+    width: 300px;
+}
+.photo_text3{
+    margin-left: 98px;
+    width: 300px;
+} 
+.authors{
+    width: 86%;
+    height: 400px;
+    margin: 200px 0 0 100px ;
+}
+
+.authors_space{
+    width: 280px;
+    height: 260px;
+    margin: 40px 0 0 0 ;
+}
+.authors_space1{
+    margin-left: 5px;
+}
+.footer{
+    width: 100%;
+    height: 248px;
+    background-color: #D9D9D9;
+    margin-top: 200px;
+    display: flex;
+}
+.text_foot{
+    width: 174px;
+    height: 106px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.images{
+    width: 183px;
+    height: 30px;
+    display: flex;
+    margin-top: 55px;
+    margin-left: 800px;
+}
+
+.footer_images1{
+    width: 13.2px;
+    height: 25px;
+    color: #000000;
+    margin: 5px 0 0 0;
+}
+.footer_images2{
+    width: 25px;
+    height: 17.58px;
+    color: #000000;
+    margin: 5px 0 0 5px;
+    
+}
+.frame-in{
+    width: 30px;
+    height: 30px;
+    margin: 0 0 0 5px;
+}
+.footer_images3{
+    width: 22.38px;
+    height: 15.55px;
+    color: #000000;
+    margin: -3.51px 0 0 2.87px ;  
+}
+.footer_images4{
+    width: 22.97px;
+    height: 22.97px;
+    color: #000000;
+    margin: 5px 0 0 5px;
+}
+
+.footer_images5{
+    width: 5.47px;
+    height: 5.47px;
+    margin: 3.53px 0 0 3.49px ;
+}
+.frame {
+    width: 30px; 
+    height: 30px;
+}
+.text_dec_foot{
+    font-family: alt;
+    color:#000000 ;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+    
+
+
